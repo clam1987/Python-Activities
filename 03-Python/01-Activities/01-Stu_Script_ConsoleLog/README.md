@@ -16,6 +16,8 @@ Refer to the documentation:
 
 [Google documentation on opening Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/open)
 
+[Pyscript Docs](https://docs.pyscript.net/2026.3.1/)
+
 ## 💡 Hints
 
 It is best practice to add a link to an external JavaScript file above what closing HTML tag?
